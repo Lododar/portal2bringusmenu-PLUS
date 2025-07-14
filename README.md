@@ -1,22 +1,19 @@
-# portal2bringusmenu
-Mod Menu for Portal 2 for the Nintendo Switch
+# portal2bringusmenu +
+Portal 2 Bringus Menu with "enhancements" and or optional cool features
 
-NOTE: gm_construct is no longer included due to file size. You can download it here, just put it into the '/nxcontent/update/maps/' folder: https://drive.google.com/file/d/1EY6oqJ3k8FcPcSGMHjvi2YLTKJAEZGfB/view?usp=sharing
-
-Instructions for installation are here: https://youtu.be/w5SQBupsOJc
+Installation instructions from Bringus Studios' original repo are here: https://youtu.be/w5SQBupsOJc
 
 Features:
 
 Modded main menu:
-- Final boss fight warp to unlock all levels
+- SUPER-8 teaser put back in the Extra's menu. (has a 20ish fps drop in the train explosion section, optional e1912.cfg file incase you want it to run better)
 - Three custom map slots
 - Ability to load some hidden developer maps
 - Enable sv_cheats
 - Show FPS
 
 Powerup mode:
-- Fire rockets
-- Spawn turrets
+- Third person toggle
 - God mode (invincibility)
 - Noclip (walk through walls & fly)
 - Read-only developer console
@@ -33,3 +30,4 @@ Advanced audio/video settings:
 - Change sound quality
 - Any setting not mentioned here either does not work, or was there by default already
 
+- (More to come later as I continue updating this)
