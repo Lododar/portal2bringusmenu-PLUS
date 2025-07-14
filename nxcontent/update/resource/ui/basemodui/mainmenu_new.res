@@ -305,8 +305,8 @@
 		"tall"						"20"
 		"autoResize"				"1"
 		"pinCorner"					"0"
-		"visible"					"1"
-		"enabled"					"1"
+		"visible"					"0"
+		"enabled"					"0" // bite me
 		"tabPosition"				"0"
 		"navUp"						"BtnMap3"
 		"navLeft"					"BtnExtras"
