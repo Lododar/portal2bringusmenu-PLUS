@@ -30,4 +30,4 @@ Advanced audio/video settings:
 - Change sound quality
 - Any setting not mentioned here either does not work, or was there by default already
 
-- (More to come later as I continue updating this)
+(More to come later as I continue updating this)
