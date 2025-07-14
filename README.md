@@ -1,9 +1,12 @@
 # portal2bringusmenu +
 Portal 2 Bringus Menu with "enhancements" and or optional cool features
 
-Installation instructions from Bringus Studios' original repo are here: https://youtu.be/w5SQBupsOJc
+##
+Original Installation instructions (game.zip) from Bringus Studios' original repo are here: https://youtu.be/w5SQBupsOJc
 
-Features:
+For simpler installation: refer to [PortalNXSideloader](https://github.com/masagrator/PortalNXSideLoader) [(latest)](https://github.com/masagrator/PortalNXSideLoader/releases/latest)
+
+## Features:
 
 Modded main menu:
 - SUPER-8 teaser put back in the Extra's menu. (has a 20ish fps drop in the train explosion section, optional e1912.cfg file incase you want it to run better)
@@ -30,4 +33,5 @@ Advanced audio/video settings:
 - Change sound quality
 - Any setting not mentioned here either does not work, or was there by default already
 
-(More to come later as I continue updating this)
+____
+**(More to come later as I continue updating this)**
