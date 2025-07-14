@@ -20,7 +20,7 @@ Powerup mode:
 - God mode (invincibility)
 - Noclip (walk through walls & fly)
 - Read-only developer console
-- Available to both players in co-op (only tested in splitscreen) (new in v0.3)
+- Available to both players in co-op (only tested in splitscreen)
 
 Advanced audio/video settings:
 - Change internal rendering resolution between 720p/1080p
