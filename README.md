@@ -1,5 +1,5 @@
 # portal2bringusmenu +
-Mod of the Bringus Menu for Portal 2 for the Nintendo Switch with "enhancements" and or optional cool features
+Mod of the Portal 2 Bringus Menu for the Nintendo Switch with "enhancements" and or optional cool features
 
 ##
 Original Installation instructions (game.zip) from Bringus Studios' original repo are here: https://youtu.be/w5SQBupsOJc
